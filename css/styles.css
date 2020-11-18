@@ -1,0 +1,199 @@
+/* Title  */
+#title {
+  text-align: center;
+  background-color: #b3d9ff;
+  color: #000000;
+}
+
+.container-fluid {
+  padding: 3% 10% 7%;
+}
+
+body {
+  font-family: "Montserrat";
+}
+
+.navbar {
+  padding: 30px 30px 0 30px;
+}
+
+.nav-item {
+  margin: 1rem;
+}
+
+.dropdown-menu {
+  left: 120px;
+  top: 90px;
+  background-color: #b3d9ff;
+}
+
+.top-heading {
+  padding-top: 60px;
+  font-size: 500%;
+}
+
+/* About me  */
+#about-me {
+  padding: 5% 15% 0;
+  background-color: #fff;
+  position: relative;
+  text-align: center;
+}
+
+.title-image {
+  width: 100%;
+  border-radius: 100%;
+}
+
+.aboutme-row {
+  padding: 5% 0 10% 0;
+}
+
+.aboutme-info {
+  text-align: left;
+  font-size: 1.2rem;
+}
+
+.aboutme-col {
+  padding: 10px 30px;
+}
+
+/* Treks  */
+#treks {
+  padding: 5% 15% 0;
+  text-align: center;
+  background-color: #b3d9ff;
+}
+
+.treks-heading {
+  font-weight: bold;
+}
+
+.roopkund-image {
+  width: 100%;
+  border-radius: 5%;
+}
+
+.brahmatal-image {
+  width: 100%;
+  border-radius: 5%;
+}
+
+.roopkund-padding {
+  padding: 20px 0 0;
+}
+
+.aboutme-row {
+  padding-bottom: 5%;
+}
+
+/* Gallery  */
+#gallery {
+  padding: 5% 15% 0;
+  background-color: #fff;
+  text-align: center;
+}
+
+.treks-heading {
+  padding-bottom: 40px;
+}
+
+.testimonial-image {
+  width: 70%;
+  margin: 20px;
+  padding: 5% 0 5%;
+}
+
+.roopkund-slide {
+  background-color: #b3d9ff;
+}
+
+.roopkund-heading {
+  padding-top: 20px;
+}
+
+/* Customer Reviews */
+#reviews {
+  background-color: #fff;
+  text-align: center;
+}
+
+.reviews-image {
+  width: 10%;
+  border-radius: 100%;
+  padding: 1%;
+}
+
+.review-slides {
+  background-color: #b3d9ff;
+}
+
+.review-carousel {
+  padding: 7% 15% 5%;
+}
+
+.review-heading {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-weight: bold;
+}
+
+/* Contact Me  */
+#contact {
+  background-color: #fff;
+  padding: 5% 15% 0;
+  text-align: center;
+}
+
+.contact-row {
+  text-align: left;
+}
+
+.contact-col {
+  padding-left: 50px;
+}
+
+.contact-image {
+  width: 90%;
+  border-radius: 100%;
+}
+
+.telephone {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.location {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.email {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.telephone-margin {
+  margin-bottom: 20px;
+}
+
+/* FAQs  */
+#faq {
+  text-align: center;
+  padding: 5% 15% 50px;
+  background-color: #b3d9ff;
+}
+
+.collapse-data {
+  text-align: left;
+}
+
+/* footer */
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
